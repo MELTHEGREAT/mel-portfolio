@@ -14,41 +14,36 @@ const Features = () => {
       <Title title="Features" des="What I Do" />
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-20">
         <Card
-          title="Business Stratagy"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-         
-        />
-        <Card
-          title="App Development"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="Web Development"
+          des="I build responsive and functional websites using HTML, CSS, JavaScript, PHP, and modern frameworks like React and Node.js."
           icon={<AiFillAppstore />}
         />
         <Card
-          title="SEO Optimisation"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="Database Management"
+          des="Skilled in designing and managing MySQL databases, ensuring data is structured and accessible for all kinds of systems."
           icon={<SiProgress />}
         />
         <Card
-          title="Mobile Development"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="System Projects"
+          des="Developed systems like restaurant kiosks and church management tools to solve real-world problems effectively."
           icon={<FaMobile />}
         />
         <Card
-          title="UX Design"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="Version Control"
+          des="Comfortable using Git and GitHub to manage code, track changes, and collaborate efficiently on development projects."
           icon={<SiAntdesign />}
         />
         <Card
-          title="Hosting Websites"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="Tech Support & Office Tools"
+          des="Experienced in basic PC troubleshooting and using tools like Microsoft Excel to organize and present data clearly."
           icon={<FaGlobe />}
         />
+        <Card
+          title="Creative & Visual Tools"
+          des="Capable in Canva for designing digital assets and presentations, blending functionality with creativity."
+          icon={<AiFillAppstore />}
+        />
+
       </div>
     </section>
   );

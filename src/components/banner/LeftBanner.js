@@ -40,9 +40,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          I use animation as a third dimension by which to simplify experiences
-          and kuiding thro each and every interaction. I'm not adding motion
-          just to spruce things up, but doing it in ways that. HAHAHAH
+         I'm an aspiring developer who loves figuring things out and making ideas work. I enjoy solving problems, learning new things, and building projects that are both useful and easy to use. I’m not about overcomplicating stuff—I keep things simple, clear, and functional.
         </p>
       </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
@@ -51,21 +49,21 @@ const LeftBanner = () => {
             Find me in
           </h2>
           <div className="flex gap-4">
-            <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
+            <a href="https://github.com/MELTHEGREAT/" target="blank">
               <span className="bannerIcon">
                 <FaGithub />
               </span>
             </a>
-            <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
+            <a href="https://www.facebook.com/share/1BoFuKRPPb/" target="blank">
               <span className="bannerIcon">
                 <FaFacebookF />
               </span>
             </a>
-            <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
+            {/* <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
               <span className="bannerIcon">
                 <FaTwitter />
               </span>
-            </a>
+            </a> */}
             <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
               <span className="bannerIcon">
                 <FaLinkedinIn />
