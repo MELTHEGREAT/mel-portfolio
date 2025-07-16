@@ -22,7 +22,7 @@ const Projects = () => {
           src={diocese}
         />
         <ProjectsCard
-          title="Innovazone"
+          title="Innovazone App"
           des="Innovazone is an e-commerce website built for young entrepreneurs to easily market and sell their products online."
           src={innovazone}
         />
