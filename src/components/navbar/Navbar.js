@@ -46,11 +46,9 @@ const Navbar = () => {
           <div className="w-[80%] h-screen overflow-scroll absolute top-0 left-0 bg-gray-900 p-4 scrollbar-hide">
             <div className="flex flex-col gap-8 py-2 relative">
               <div>
-                <img className="w-32" src={logo} alt="logo" />
+                <img className="w-32" src={mel_logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                I'm an aspiring developer who loves figuring things out and making ideas work.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">

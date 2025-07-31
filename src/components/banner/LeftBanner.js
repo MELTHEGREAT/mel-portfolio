@@ -15,7 +15,7 @@ const LeftBanner = () => {
     words: [
       "BSIT Student from PUP - Unisan.",
       "Web Developer.",
-      "UI/UX Designer."
+      "Freelancer."
       
     ],
 
